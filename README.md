@@ -27,7 +27,7 @@ Gosto de transformar ideias em aplicações funcionais, organizando desde as reg
 
 ## Projeto em destaque
 
-### ⚔️ Royale Hub
+### Royale Hub
 
 Plataforma full stack para jogadores de Clash Royale acompanharem perfis, rankings, cartas, decks e estatísticas do meta.
 
