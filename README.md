@@ -83,21 +83,6 @@ Plataforma full stack para jogadores de Clash Royale acompanharem perfis, rankin
 - Estruturas de dados e programação em C
 - Bancos de dados relacionais e segurança de aplicações
 
-## GitHub em números
-
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=LeonardoHSantos1612&show_icons=true&theme=transparent&hide_border=true&title_color=818cf8&icon_color=a78bfa&text_color=cbd5e1&locale=pt-br"
-    alt="Estatísticas do GitHub"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoHSantos1612&layout=compact&theme=transparent&hide_border=true&title_color=818cf8&text_color=cbd5e1&locale=pt-br"
-    alt="Linguagens mais utilizadas"
-  />
-</p>
-
 ---
 
 <p align="center">
