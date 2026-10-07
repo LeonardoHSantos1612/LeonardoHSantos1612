@@ -17,7 +17,7 @@
 
 Sou estudante de **Sistemas de Informação na PUC-Campinas** e desenvolvedor em formação, com interesse especial em desenvolvimento **back-end e full stack**.
 
-Gosto de transformar ideias em aplicações funcionais, organizando desde as regras de negócio e o banco de dados até a interface e os testes. Atualmente, meu principal projeto é o **Royale Hub**, uma plataforma web de estatísticas e comunidade para Clash Royale.
+Gosto de transformar ideias em aplicações funcionais, organizando desde as regras de negócio e o banco de dados até a interface e os testes. Atualmente, meu principal projeto é o [Royale Hub](https://royaleleague.pythonanywhere.com/), uma plataforma web de estatísticas e comunidade para Clash Royale.
 
 - Desenvolvendo aplicações web com **Python, Flask e SQLAlchemy**
 - Criando interfaces responsivas com **HTML, CSS e JavaScript**
